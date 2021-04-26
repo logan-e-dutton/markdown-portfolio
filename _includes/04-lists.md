@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Favorite Things 
+* The ocean 
+* Plants and Gardens 
+* Books 
